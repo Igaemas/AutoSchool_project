@@ -1,3 +1,5 @@
 print('lorem ipsum')
 # ---- COMMAND GITHUB ----
-# git pull : mettre a jour
+# git add fichier
+# git commit -m "message"
+# git push : mettre a jour
